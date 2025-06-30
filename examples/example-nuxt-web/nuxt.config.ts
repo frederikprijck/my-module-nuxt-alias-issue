@@ -6,7 +6,7 @@ export default defineNuxtConfig({
     [
       'my-module',
       {
-        sessionStoreFactoryPath: '~/utils/session-store-factory.ts',
+        sessionStoreFactoryPath: '~/server/utils/session-store-factory.ts',
       },
     ],
   ],
